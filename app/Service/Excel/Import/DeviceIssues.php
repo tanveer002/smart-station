@@ -48,10 +48,12 @@ class DeviceIssues extends AbstractImportService
 
             $deviceName = $this->getValue('B' . $row);
             $seriesName = $this->getValue('C' . $row);
-            $modelName = $this->getValue('D' . $row);
-            $issuesName = $this->getValue('E' . $row);
-            $description = $this->getValue('F' . $row);
-            $price = $this->getValue('G' . $row);
+            $seriesImage = $this->getValue('D' . $row);
+            $modelName = $this->getValue('E' . $row);
+            $modelImage = $this->getValue('F' . $row);
+            $issuesName = $this->getValue('G' . $row);
+            $description = $this->getValue('H' . $row);
+            $price = $this->getValue('I' . $row);
           
             $device = Device::where('DeviceName', $deviceName)->first();
             if (!$device) {
@@ -66,7 +68,7 @@ class DeviceIssues extends AbstractImportService
                 $series = Series::create([
                     'device_id' => $device->id,
                     'SeriesName' => $seriesName,
-                    'image' => "",
+                    'image' =>  $seriesImage,
                     'SeriesDescription' => ""
                 ]);
             }
@@ -78,7 +80,7 @@ class DeviceIssues extends AbstractImportService
                     'series_id' => $series->id,
                     'ModelName' => $modelName,
                     'ModelDescription' => "",
-                    'image' => ""
+                    'image' => $modelImage
                 ]);
             }
 

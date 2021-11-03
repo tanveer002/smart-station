@@ -66,7 +66,7 @@
 			<div class="et_pb_column et_pb_column_4_4 et_pb_column_0 et_pb_css_mix_blend_mode_passthrough et-last-child">
 				<div class="et_pb_module et_pb_text et_pb_text_0 et_pb_text_align_left et_pb_bg_layout_light">
 					<div class="et_pb_text_inner">
-						<h1>APPLE DEVICE'S&nbsp;</h1>
+						<h1>APPLE DEVICE&nbsp;</h1>
 					</div>
 				</div>
 			</div>
@@ -81,7 +81,7 @@
 		<!--		<p><?php echo e($serie->SeriesName); ?></p>-->
 		<!--	</div>-->
 		<!--</div>-->
-		<?php if($serie->id == 5): ?>
+		<?php if($serie->id == 1): ?>
 		<div class="col-md-4 col-sm-12">
 			<div class="about-box active center-block bg-blue wow zoomIn" data-wow-delay="500ms" onClick="getSeriesModals('<?php echo e($serie->id); ?>','<?php echo e($appleID); ?>')" style="background-color:#fff">
 	           <div class="about-main-icon pb-4">
@@ -91,7 +91,7 @@
 	            </div>
 		    </div>
 		<?php endif; ?>
-		<?php if($serie->id == 6): ?>
+		<?php if($serie->id == 2): ?>
 		<div class="col-md-4 col-sm-12">
 			<div class="about-box active center-block bg-blue wow zoomIn" data-wow-delay="500ms" onClick="getSeriesModals('<?php echo e($serie->id); ?>','<?php echo e($appleID); ?>')" style="background-color:#fff">
 	           <div class="about-main-icon pb-4">
@@ -101,7 +101,7 @@
 	            </div>
 		    </div>
 		<?php endif; ?>
-		<?php if($serie->id == 63): ?>
+		<?php if($serie->id == 49): ?>
 		<div class="col-md-4 col-sm-12">
 			<div class="about-box active center-block bg-blue wow zoomIn" data-wow-delay="500ms" onClick="getSeriesModals('<?php echo e($serie->id); ?>','<?php echo e($appleID); ?>')" style="background-color:#fff">
 	           <div class="about-main-icon pb-4">
