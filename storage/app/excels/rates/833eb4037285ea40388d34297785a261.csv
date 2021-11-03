@@ -1,0 +1,165 @@
+Sr#,Brand,Series,Models,Issues,Issues Description,Price
+1,Apple,iPad,iPad Pro 12.9 2018,Screen / LCD,back camera replacemet,400
+,Apple,iPad,iPad Pro 12.9 2018Battery,LED,replacemet,300
+,Apple,iPad,iPad Pro 12.9 2018,camera,back camera replacemet,200
+2,Apple,iPad,iPad Pro 12.9 2nd Gen,Battery,battery replacemet,100
+3,Apple,iPad,iPad Pro 12.9 1st Gen,Charging port,screen replacement,200
+4,Apple,iPad,iPad Pro 11 2018,Speaker,screen replacement,200
+5,Apple,iPad,iPad Pro 10.5,Front Camera,screen replacement,200
+6,Apple,iPad,iPad Pro 9.7,Rear Camera,screen replacement,200
+7,Apple,iPad,iPad Air 3 2019,Mic Issues,screen replacement,200
+8,Apple,iPad,iPad Air 2,Back glass,screen replacement,200
+9,Apple,iPad,iPad Air 1,Screen / LCD,screen replacement,200
+10,Apple,iPad,iPad Mini 5 2019,Battery,screen replacement,200
+11,Apple,iPad,iPad Mini 4,Charging port,screen replacement,100
+12,Apple,iPad,iPad Mini 3,Speaker,screen replacement,100
+13,Apple,iPad,iPad Mini 2,Front Camera,screen replacement,100
+14,Apple,iPad,iPad Mini 1,Rear Camera,screen replacement,100
+15,Apple,iPad,iPad 7 2019 10.2,Mic Issues,screen replacement,100
+16,Apple,iPad,iPad 6 2018 9.7,Back glass,screen replacement,50
+17,Apple,iPad,iPad 5 2017 9.7,Screen / LCD,screen replacement,100
+18,Apple,iPad,iPad 444,Battery,screen replacement,100
+19,Apple,iPad,iPad 3,Charging port,screen replacement,100
+20,Apple,iPad,iPad 2,Speaker,screen replacement,100
+21,Apple,iPad,iPad 1,Front Camera,screen replacement,100
+22,Apple,iPhone,iPhone 12 Pro Max,Rear Camera,screen replacement,100
+23,Apple,iPhone,iPhone 12 Pro,Mic Issues,screen replacement,100
+24,Apple,iPhone,iPhone 12,Back glass,screen replacement,100
+25,Apple,iPhone,iPhone 11 Pro Max,Screen / LCD,screen replacement,100
+26,Apple,iPhone,iPhone 11 Pro,Battery,screen replacement,100
+27,Apple,iPhone,iPhone 11,Charging port,screen replacement,100
+28,Apple,iPhone,iPhone XS Max,Speaker,screen replacement,100
+29,Apple,iPhone,iPhone XS,Front Camera,screen replacement,100
+30,Apple,iPhone,iPhone XR,Rear Camera,screen replacement,100
+31,Apple,iPhone,iPhone X,Mic Issues,screen replacement,100
+32,Apple,iPhone,iPhone 8 Plus,Back glass,screen replacement,100
+33,Apple,iPhone,iPhone 8,Screen / LCD,screen replacement,100
+34,Apple,iPhone,iPhone 7 Plus,Battery,screen replacement,100
+35,Apple,iPhone,iPhone 7,Charging port,screen replacement,100
+36,Apple,iPhone,iPhone 6S Plus,Speaker,screen replacement,100
+37,Apple,iPhone,iPhone 6S,Front Camera,screen replacement,100
+38,Apple,iPhone,iPhone 6 Plus,Rear Camera,screen replacement,100
+39,Apple,iPhone,iPhone 6,Mic Issues,screen replacement,100
+40,Apple,iPhone,iPhone SE,Back glass,screen replacement,100
+41,Apple,iPhone,iPhone 5C,Screen / LCD,screen replacement,100
+42,Apple,iPhone,iPhone 5S,Battery,screen replacement,100
+43,Apple,iPhone,iPhone 5,Charging port,screen replacement,100
+44,Apple,iPhone,iPhone 4S,Speaker,screen replacement,100
+45,Apple,iPhone,iPhone 4,Front Camera,screen replacement,100
+46,Xiaomi,Mi Series,Xiaomi Mi 10 Pro,Rear Camera,screen replacement,100
+47,Xiaomi,Mi Series,Xiaomi Mi 10,Mic Issues,screen replacement,100
+48,Xiaomi,Mi Series,Xiaomi Mi A3,Back glass,screen replacement,100
+49,Xiaomi,Mi Series,Xiaomi Mi 9 SE,Screen / LCD,screen replacement,100
+50,Xiaomi,Mi Series,Xiaomi Mi 9T,Battery,screen replacement,100
+51,Xiaomi,Mi Series,Xiaomi Mi 9 Pro,Charging port,screen replacement,100
+52,Xiaomi,Mi Series,Xiaomi Mi 9 Lite,Speaker,screen replacement,100
+53,Xiaomi,Mi Series,Xiaomi Mi 9,Front Camera,screen replacement,100
+54,Xiaomi,Mi Series,Xiaomi Mi 8 SE,Rear Camera,screen replacement,100
+55,Xiaomi,Mi Series,Xiaomi MI 8 Lite,Mic Issues,screen replacement,100
+56,Xiaomi,Mi Series,Xiaomi Mi 8,Back glass,screen replacement,100
+57,Xiaomi,Mi Series,Xiaomi Mi 6,Screen / LCD,screen replacement,100
+58,Xiaomi,Mi Series,Xiaomi Mi 5S Plus,Battery,screen replacement,100
+59,Xiaomi,Mi Series,Xiaomi Mi 5s,Charging port,screen replacement,100
+60,Xiaomi,Mi Series,Xiaomi Mi 5c,Speaker,screen replacement,100
+61,Xiaomi,Mi Series,Xiaomi Mi 5,Front Camera,screen replacement,100
+62,Xiaomi,Mi Series,Xiaomi Mi 4S,Rear Camera,screen replacement,100
+63,Xiaomi,Mi Series,Xiaomi Mi 4i,Mic Issues,screen replacement,100
+64,Xiaomi,Mi Series,Xiaomi Mi 4C,Back glass,screen replacement,100
+65,Xiaomi,Mi Series,Xiaomi Mi 4,Screen / LCD,screen replacement,100
+66,Xiaomi,Mi Series,Xiaomi Mi 3,Battery,screen replacement,100
+67,Xiaomi,Mi Series,Xiaomi Mi 2A,Charging port,screen replacement,100
+68,Xiaomi,Mi Series,Xiaomi Mi A2 Lite,Speaker,screen replacement,100
+69,Xiaomi,Mi Series,Xiaomi Mi A2,Front Camera,screen replacement,100
+70,Xiaomi,Mi Series,Xiaomi Mi A1,Rear Camera,screen replacement,100
+71,Xiaomi,Mi Series,Xiaomi Mi Play,Mic Issues,screen replacement,100
+72,Xiaomi,Mi Series,Xiaomi Mi Max 3,Back glass,screen replacement,100
+73,Xiaomi,Mi Series,Xiaomi Mi Max 2,Screen / LCD,screen replacement,100
+74,Xiaomi,Mi Series,Xiaomi Mi Max,Battery,screen replacement,100
+75,Xiaomi,Mi Series,Xiaomi Mi Mix 3,Charging port,screen replacement,100
+76,Xiaomi,Mi Series,Xiaomi MI Mix 2S,Speaker,screen replacement,100
+77,Xiaomi,Mi Series,Xiaomi Mi Mix 2,Front Camera,screen replacement,100
+78,Xiaomi,Mi Series,Xiaomi Mi Mix,Rear Camera,screen replacement,100
+79,Xiaomi,Note Series,Xiaomi Redmi Note 9S,Mic Issues,screen replacement,100
+80,Xiaomi,Note Series,Xiaomi Redmi Note 9 Pro,Back glass,screen replacement,100
+81,Xiaomi,Note Series,Xiaomi Redmi Note 9,Screen / LCD,screen replacement,100
+82,Xiaomi,Note Series,Xiaomi Mi Note 10 Pro,Battery,screen replacement,100
+83,Xiaomi,Note Series,Xiaomi Mi Note 10,Charging port,screen replacement,100
+84,Xiaomi,Note Series,Xiaomi Redmi Note 8T,Speaker,screen replacement,100
+85,Xiaomi,Note Series,Xiaomi Redmi Note 8 Pro,Front Camera,screen replacement,100
+86,Xiaomi,Note Series,Xiaomi Redmi Note 8,Rear Camera,screen replacement,100
+87,Xiaomi,Note Series,Xiaomi Redmi Note 7 Pro,Mic Issues,screen replacement,100
+88,Xiaomi,Note Series,Xiaomi Redmi Note 7,Back glass,screen replacement,100
+89,Xiaomi,Note Series,Xiaomi Redmi Note 6 Pro,Screen / LCD,screen replacement,100
+90,Xiaomi,Note Series,Xiaomi Redmi Note 5A Prime,Battery,screen replacement,100
+91,Xiaomi,Note Series,Xiaomi Redmi Note 5A,Charging port,screen replacement,100
+92,Xiaomi,Note Series,Xiaomi Redmi Note 5 Pro,Speaker,screen replacement,100
+93,Xiaomi,Note Series,Xiaomi Redmi Note 5,Front Camera,screen replacement,100
+94,Xiaomi,Note Series,Xiaomi Redmi Note 4X,Rear Camera,screen replacement,100
+95,Xiaomi,Note Series,Xiaomi Redmi Note 4,Mic Issues,screen replacement,100
+96,Xiaomi,Note Series,Xiaomi Redmi Note 3 Pro,Back glass,screen replacement,100
+97,Xiaomi,Note Series,Xiaomi Redmi Note 3,Screen / LCD,screen replacement,100
+98,Xiaomi,Note Series,Xiaomi Redmi Note 2,Battery,screen replacement,100
+99,Xiaomi,Note Series,Xiaomi Redmi Note 4G,Charging port,screen replacement,100
+100,Xiaomi,Note Series,Xiaomi Redmi Note 3G,Speaker,screen replacement,100
+101,Xiaomi,Note Series,Xiaomi Mi Note 2,Front Camera,screen replacement,100
+102,Xiaomi,Note Series,Xiaomi Mi Note 1,Rear Camera,screen replacement,100
+103,Xiaomi,Note Series,Xiaomi Mi Note Pro,Mic Issues,screen replacement,100
+104,Xiaomi,Redmi Series,Xiaomi Redmi K30 Pro / Poco F2 Pro,Back glass,screen replacement,100
+105,Xiaomi,Redmi Series,Xiaomi Redmi K30 / Poco X2,Screen / LCD,screen replacement,100
+106,Xiaomi,Redmi Series,Xiaomi Redmi K20 Pro,Battery,screen replacement,100
+107,Xiaomi,Redmi Series,Xiaomi Redmi K20,Charging port,screen replacement,100
+108,Xiaomi,Redmi Series,Xiaomi Redmi 9A,Speaker,screen replacement,100
+109,Xiaomi,Redmi Series,Xiaomi Redmi 8A,Front Camera,screen replacement,100
+110,Xiaomi,Redmi Series,Xiaomi Redmi 8,Rear Camera,screen replacement,100
+111,Xiaomi,Redmi Series,Xiaomi Redmi 7A,Mic Issues,screen replacement,100
+112,Xiaomi,Redmi Series,Xiaomi Redmi 7,Back glass,screen replacement,100
+113,Xiaomi,Redmi Series,Xiaomi Redmi 6A,Screen / LCD,screen replacement,100
+114,Xiaomi,Redmi Series,Xiaomi Redmi 6,Battery,screen replacement,100
+115,Xiaomi,Redmi Series,Xiaomi Redmi 5A,Charging port,screen replacement,100
+116,Xiaomi,Redmi Series,Xiaomi Redmi 5 Plus,Speaker,screen replacement,100
+117,Xiaomi,Redmi Series,Xiaomi Redmi 5,Front Camera,screen replacement,100
+118,Xiaomi,Redmi Series,Xiaomi Redmi 4X,Rear Camera,screen replacement,100
+119,Xiaomi,Redmi Series,Xiaomi Redmi 4A,Mic Issues,screen replacement,100
+120,Xiaomi,Redmi Series,Xiaomi Redmi 4,Back glass,screen replacement,100
+121,Xiaomi,Redmi Series,Xiaomi Redmi 3S,Screen / LCD,screen replacement,100
+122,Xiaomi,Redmi Series,Xiaomi Redmi 3,Battery,screen replacement,100
+123,Xiaomi,Redmi Series,Xiaomi Redmi 2,Charging port,screen replacement,100
+124,Xiaomi,Redmi Series,Xiaomi Redmi 1S,Speaker,screen replacement,100
+125,Xiaomi,Redmi Series,Xiaomi Redmi Pro,Front Camera,screen replacement,100
+126,Xiaomi,Redmi Series,Xiaomi Redmi S2,Rear Camera,screen replacement,100
+127,Xiaomi,Others,Xiaomi Black Shark Helo,Mic Issues,screen replacement,100
+128,Xiaomi,Others,Xiaomi Black Shark 2,Back glass,screen replacement,100
+129,Xiaomi,Others,Xiaomi Black Shark,Screen / LCD,screen replacement,100
+130,Xiaomi,Others,Xiaomi Pocophone F1,Battery,screen replacement,100
+131,Sony,Z Series,Sony Xperia Z5 Premium,Charging port,screen replacement,100
+132,Sony,Z Series,Sony Xperia Z5 Compact,Speaker,screen replacement,100
+133,Sony,Z Series,Sony Xperia Z5,Front Camera,screen replacement,100
+134,Sony,Z Series,Sony Xperia Z4 Plus,Rear Camera,screen replacement,100
+135,Sony,Z Series,Sony Xperia Z4 Tablet,Mic Issues,screen replacement,100
+136,Sony,Z Series,Sony Xperia Z3 Compact,Back glass,screen replacement,100
+137,Sony,Z Series,Sony Xperia Z3 Plus,Screen / LCD,screen replacement,100
+138,Sony,Z Series,Sony Xperia Z3,Battery,screen replacement,100
+139,Samsung,S Series,Samsung S10 plus,Charging port,screen replacement,100
+140,Samsung,S Series,Samsung S10e,Speaker,screen replacement,100
+141,Samsung,S Series,Samsung S10,Front Camera,screen replacement,100
+142,Samsung,S Series,Samsung S9 Plus,Rear Camera,screen replacement,100
+143,Samsung,S Series,Samsung S9,Mic Issues,screen replacement,100
+144,Samsung,S Series,Samsung S8 Plus,Back glass,screen replacement,100
+145,Samsung,S Series,Samsung S8,Screen / LCD,screen replacement,100
+146,Samsung,S Series,Samsung S7 Edge,Battery,screen replacement,100
+147,Samsung,S Series,Samsung S7,Charging port,screen replacement,100
+148,Samsung,S Series,Samsung S6 Edge Plus,Speaker,screen replacement,100
+149,Samsung,S Series,Samsung S6 Edge,Front Camera,screen replacement,100
+150,Samsung,S Series,Samsung S6 Active,Rear Camera,screen replacement,100
+151,Samsung,S Series,Samsung S6,Mic Issues,screen replacement,100
+152,Samsung,S Series,Samsung S5,Back glass,screen replacement,100
+153,Samsung,S Series,Samsung S5 Mini Plus,Screen / LCD,screen replacement,100
+154,Samsung,S Series,Samsung S5 Active,Battery,screen replacement,100
+155,Samsung,S Series,Samsung S5 LTE,Charging port,screen replacement,100
+156,Samsung,S Series,Samsung S4,Speaker,screen replacement,100
+157,Samsung,S Series,Samsung S4 Active,Front Camera,screen replacement,100
+158,Samsung,S Series,Samsung S4 Mini,Rear Camera,screen replacement,100
+159,LG,LG Series,LG Leon,Mic Issues,screen replacement,100
+160,Samsung Tab,S Series,Galaxy Tab S7 Plus T970 T976B,Back glass,screen replacement,100
+161,Samsung Tab,S Series,Galaxy Tab S7 T870 T875 T876B,Screen / LCD,screen replacement,100
+162,Samsung Tab,S Series,Galaxy Tab S6 Lite P610 P615,Battery,screen replacement,100
